@@ -1,2 +1,2 @@
-#!/zbin/bash
+#!/bin/bash
 gcc -E -o c $CFILE
